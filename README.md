@@ -84,4 +84,4 @@ n8n · Claude · QuickBooks Online API · Google Drive API · Gmail API
 
 ---
 
-**[← More case studies](https://valeriasanzjones.vercel.app)**
+**[← More of my work](https://github.com/valeriasanzx)**
